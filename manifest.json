@@ -1,0 +1,11 @@
+{
+	"id": "snippet-commands",
+	"name": "Snippet Commands",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Toggle CSS snippets from the command palette instead of going into Settings. Adds one command per snippet plus a quick picker, enable-all and disable-all.",
+	"author": "markos",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-snippet-toggles",
+	"name": "obsidian-snippet-master",
 	"version": "1.0.1",
 	"description": "Obsidian plugin: commands to toggle CSS snippets",
 	"main": "main.js",

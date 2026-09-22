@@ -1,4 +1,4 @@
-# Snippet Toggles
+# Snippet Master
 
 Toggle Obsidian CSS snippets from the command palette — no more digging through Settings → Appearance.
 
@@ -20,18 +20,18 @@ The per-snippet commands stay in sync automatically when snippet files are creat
 
 1. Install the [BRAT](https://github.com/TfTHacker/obsidian42-brat) community plugin.
 2. In BRAT settings, choose **Add Beta plugin** and paste this repo's URL.
-3. Enable **Snippet Toggles** under Settings → Community plugins.
+3. Enable **Snippet Master** under Settings → Community plugins.
 
 **Manual:**
 
 1. Download `manifest.json` and `main.js` from the latest release (or build from source).
-2. Copy them into `<vault>/.obsidian/plugins/snippet-toggles/`.
-3. Enable **Snippet Toggles** under Settings → Community plugins.
+2. Copy them into `<vault>/.obsidian/plugins/snippet-master/`.
+3. Enable **Snippet Master** under Settings → Community plugins.
 
 ## Usage
 
 1. Open the command palette (`Cmd/Ctrl + P`).
-2. Run `Snippet Toggles: Toggle snippet…` and pick a snippet — or run `Toggle snippet: <name>` directly.
+2. Run `Snippet Master: Toggle snippet…` and pick a snippet — or run `Toggle snippet: <name>` directly.
 3. Optional: go to Settings → Hotkeys and bind your most-used `Toggle snippet: <name>` commands to hotkeys.
 
 ## Development

@@ -1,6 +1,6 @@
 {
-	"id": "snippet-toggles",
-	"name": "Snippet Toggles",
+	"id": "snippet-master",
+	"name": "Snippet Master",
 	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Toggle CSS snippets from the command palette instead of going into Settings. Adds one command per snippet plus a quick picker, enable-all and disable-all.",
